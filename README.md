@@ -10,6 +10,6 @@ $**cd**  src
 $**python3**  face_det.py  test.mp4  test_facedetected.mp4  
   
 ![Example Image](https://github.com/cetinsamet/face-detection/blob/master/screenshot.jpeg)  
-*Example screenshot taken from the processed video.*  
+*Example screenshot taken from a processed video.*  
 *Two proud graduands are having fun.*  
 *I'm the one on the right :)*
