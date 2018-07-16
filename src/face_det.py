@@ -28,6 +28,7 @@ def main(argv):
         frame = detect(frame)
         writer.append_data(frame)
         print("processing %dth frame" % i)
+    print("Processed video is saved to %s" % out)
     writer.close()
 
 
